@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 
-[![DKage's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkage&show_icons=true&theme=radical&count_private=true)
+![DKage's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkage&show_icons=true&theme=radical&count_private=true)
