@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=07D5F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Focus+on+PHP%2FPython+backend)](https://git.io/typing-svg)
+
+
+
+[![DKage's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkage&show_icons=true&theme=radical&count_private=true)
