@@ -14,14 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1">
     <img src="https://github.com/dkage/readme_imgs/blob/master/dkage/name.png?raw=true" height="60px" alt="Jonah Lawrence" /></a>
 </p>
 
 <p align="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=07D5F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Focus+on+PHP%2FPython+backend)" /></a>
+  <a href="https://github.com/DKage/">
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=07D5F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Focus+on+PHP%2FPython+backend)" />
+  </a>
 </p>
 
 
