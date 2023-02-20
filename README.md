@@ -29,3 +29,7 @@ Here are some ideas to get you started:
 
 ![DKage's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkage&show_icons=true&theme=radical&count_private=true)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DKage&theme=radical)](https://git.io/streak-stats)
+
+[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DKage&show_icons=true&theme=radical&count_private=true)](https://git.io/streak-stats)
+
+
