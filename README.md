@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/DKage/">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=07D5F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Focus+on+PHP%2FPython+backend)" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=07D5F7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Focus+on+PHP%2FPython+backend" />
   </a>
 </p>
 
