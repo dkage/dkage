@@ -39,9 +39,34 @@ Here are some ideas to get you started:
 </div>
 <br>
 
-<!-- ![DKage's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkage&show_icons=true&theme=radical&count_private=true) -->
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DKage&theme=radical)](https://git.io/streak-stats) -->
 
-<!-- [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DKage&show_icons=true&theme=radical&count_private=true)](https://git.io/streak-stats) -->
 
+<div align="center"> 
+ 
+ ## Main Techs 
+  
+</div>
+
+![PHP](https://img.shields.io/badge/PHP-FCC624?style=for-the-badge&logo=php&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+
+
+
+
+  
+<div align="center"> 
+  
+  ## Contatos
+  
+  <a href = "mailto:andressaclecia.ribeiro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com//in/andressaribeiroo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://wa.me/+5581986186087" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+ 
+</div>
 
