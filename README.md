@@ -25,10 +25,21 @@ Here are some ideas to get you started:
 
 
 
-
-![DKage's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkage&show_icons=true&theme=radical&count_private=true)
+<br>
+<div align="center">
+  
+  ## Estatísticas 
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DKage&theme=radical)](https://git.io/streak-stats)
+  
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dkage&show_icons=true&theme=radical&count_private=true" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=DKage&show_icons=true&theme=radical&count_private=true)](https://git.io/streak-stats" />
+</div>
+<br>
 
-[![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DKage&show_icons=true&theme=radical&count_private=true)](https://git.io/streak-stats)
+<!-- ![DKage's GitHub stats](https://github-readme-stats.vercel.app/api?username=dkage&show_icons=true&theme=radical&count_private=true) -->
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DKage&theme=radical)](https://git.io/streak-stats) -->
+
+<!-- [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DKage&show_icons=true&theme=radical&count_private=true)](https://git.io/streak-stats) -->
 
 
