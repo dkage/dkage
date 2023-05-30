@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
   
-  ## Estatísticas 
+  ## Statistics 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DKage&theme=radical)](https://git.io/streak-stats)
   
