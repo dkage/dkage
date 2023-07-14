@@ -36,6 +36,12 @@ Here are some ideas to get you started:
   <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DKage&layout=compact&show_icons=true&theme=radical&count_private=true)](https://git.io/streak-stats" />
 
 
+
+
+</div>
+<div align="center">
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
 </div>
 <br>
 
