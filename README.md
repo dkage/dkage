@@ -41,7 +41,16 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+
+```txt
+PHP              6 hrs 45 mins   █████████▓░░░░░░░░░░░░░░░   38.15 %
+TypeScript       3 hrs 42 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.94 %
+Go               2 hrs 20 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
+JavaScript       1 hr 5 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 %
+Text             56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+```
+
+<!--END_SECTION:waka-->
 </div>
 <br>
 
