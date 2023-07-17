@@ -40,11 +40,10 @@ Here are some ideas to get you started:
 
 </div>
 <div align="center">
+    ### Time coding (last 7 days)
+</div>
 
-### Time coding (last 7 days)
-
-
-
+<div align="center">
 
 <!--START_SECTION:waka-->
 
