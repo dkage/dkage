@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 </div>
 <div align="center">
 
-### Time coding this week 
+### Time coding (last 7 days)
     
     <!--START_SECTION:waka-->
 
@@ -55,7 +55,8 @@ Blade Template   37 mins         █░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-__time tracking powered by Wakatime__
+<sub>Time tracking made by Wakatime</sub>
+
 </div>
 <br>
 
