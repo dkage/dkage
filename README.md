@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 
 </div>
 <div align="center">
+
+### Time coding this week 
+    
     <!--START_SECTION:waka-->
 
 ```json
@@ -51,6 +54,8 @@ Blade Template   37 mins         █░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+__time tracking powered by Wakatime__
 </div>
 <br>
 
