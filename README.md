@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<!--START_SECTION:waka-->
+    <!--START_SECTION:waka-->
 
 ```json
 PHP              6 hrs 17 mins   █████████▒░░░░░░░░░░░░░░░   36.82 %
