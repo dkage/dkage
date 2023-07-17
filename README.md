@@ -42,8 +42,11 @@ Here are some ideas to get you started:
 <div align="center">
 
 ### Time coding (last 7 days)
-    
-    <!--START_SECTION:waka-->
+
+
+
+
+<!--START_SECTION:waka-->
 
 ```json
 PHP              6 hrs 17 mins   █████████▒░░░░░░░░░░░░░░░   36.82 %
