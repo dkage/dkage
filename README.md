@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```json
-PHP              3 hrs 39 mins   ███████████░░░░░░░░░░░░░░   44.30 %
-TypeScript       2 hrs 15 mins   ███████░░░░░░░░░░░░░░░░░░   27.46 %
-Bash             1 hr 7 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-Apache Config    33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.77 %
-htaccess         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+PHP              2 hrs 7 mins    ██████████▓░░░░░░░░░░░░░░   42.12 %
+Bash             52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.37 %
+Markdown         42 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.99 %
+TypeScript       26 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+SQL              18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
 ```
 
 <!--END_SECTION:waka-->
