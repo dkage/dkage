@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```json
-PHP              7 hrs 42 mins   ████████████▒░░░░░░░░░░░░   48.78 %
-Blade Template   5 hrs 13 mins   ████████▒░░░░░░░░░░░░░░░░   33.04 %
-CSS              1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
-Bash             46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-SQL              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
+PHP              7 hrs 18 mins   ████████████░░░░░░░░░░░░░   48.30 %
+Blade Template   4 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   32.73 %
+CSS              1 hr 22 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+Bash             46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+SQL              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
