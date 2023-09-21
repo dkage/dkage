@@ -50,11 +50,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```json
-TypeScript       1 hr 26 mins    ████████████░░░░░░░░░░░░░   48.22 %
-SQL              29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.52 %
-PHP              24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
-.env file        12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.82 %
-Bash             11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
+PHP              38 mins         ████████████▒░░░░░░░░░░░░   49.02 %
+.env file        11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+Bash             10 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.75 %
+TypeScript       9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
+Blade Template   3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
 <!--END_SECTION:waka-->
