@@ -39,29 +39,7 @@ Here are some ideas to get you started:
 
 
 </div>
-<div align="center">
-    
-### Time coding (last 7 days)
-    
-</div>
 
-<div align="center
-    
-<!--START_SECTION:waka-->
-
-```json
-PHP              5 hrs 4 mins    ████████▒░░░░░░░░░░░░░░░░   33.88 %
-TypeScript       4 hrs 27 mins   ███████▒░░░░░░░░░░░░░░░░░   29.76 %
-Blade Template   2 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-HTML             1 hr 20 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-SQL              46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
-```
-
-<!--END_SECTION:waka-->
-
-<sub>Time tracking made by Wakatime</sub>
-
-</div>
 <br>
 
 
