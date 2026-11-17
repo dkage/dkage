@@ -31,9 +31,7 @@ Here are some ideas to get you started:
   ## Statistics 
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DKage&theme=radical)](https://git.io/streak-stats)
-  
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dkage&show_icons=true&theme=radical&count_private=true" />
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DKage&layout=compact&show_icons=true&theme=radical&count_private=true)](https://git.io/streak-stats" />
+
 
 
 
